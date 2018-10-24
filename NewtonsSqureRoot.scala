@@ -16,5 +16,4 @@ object NewtonsSqureRoot {
     iterSqrt(1.0)
 
   }
-  println(sqrt(2))
 }
