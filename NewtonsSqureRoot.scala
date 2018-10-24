@@ -1,4 +1,4 @@
-object NewtonsSqureRoot extends App {
+object NewtonsSqureRoot {
 
   def abs(x:Double) = if (x<0) -x else x
   def sqrt(x:Double)={
